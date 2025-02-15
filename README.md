@@ -3,7 +3,7 @@
 <div align="center">
   <img src="cat-reading.gif" width="250">
   <img src="d370fc11-e9d4-44f9-bf7d-e84f1bab3dee.gif" width="250">
-  <img src="streetlifting-weighted-dips (2) (2) (2) (2).gif width="250">
+  <img src="streetlifting-weighted-dips.gif" width="250">
 </div>
 
 ---
